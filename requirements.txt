@@ -1,0 +1,6 @@
+# Requisitos del proyecto (instalación con pnpm)
+Node.js >= 18.0.0
+pnpm >= 9.0.0
+
+# Dependencias JavaScript: consultar package.json
+# Instalar con: pnpm install
